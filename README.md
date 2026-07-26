@@ -3,7 +3,7 @@
 # 🌐 VX NETWORK PROTOCOL
 ### [ THE SOVEREIGN ENGINE OF WEB 4.0 & IMMUTABLE TRUTH ]
 
-[![VX CORE TEAM](https://img.shields.io/badge/VX_CORE_TEAM%20%2F%20SOVEREIGN-00ff66?style=for-the-badge&logo=shield&logoColor=black)]()
+[![VX CORE TEAM](https://img.shields.io/badge/PROTOCOL360-CORE%20%2F%20TEAM-800020?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/Axis2030/VX_NETWORK/blob/4d9fc9b830d35b48399ffda5dc6efc98257fedff/VX_CORE_TEAM.md)
 [![Security Architecture](https://img.shields.io/badge/SECURITY-PQC%20%2B%20ZK--PROOF-blueviolet?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://github.com/Axis2030/VX_NETWORK/blob/6f8847d7330d386af75159b1a8aaec3603d76b2f/SECURITY.md)
 [![License](https://img.shields.io/badge/LICENSE-HYBRID%20SOURCE--AVAILABLE-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/Axis2030/VX_NETWORK/blob/6f8847d7330d386af75159b1a8aaec3603d76b2f/LICENSE.md)
 [![Founder](https://img.shields.io/badge/ARCHITECT-ENG.%20MAJID%20MAHYOUB%20AL--ABADI-gold?style=for-the-badge&logo=databricks&logoColor=black)](https://github.com/Axis2030/VX_NETWORK/blob/6f8847d7330d386af75159b1a8aaec3603d76b2f/FOUNDER.md)
