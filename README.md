@@ -19,21 +19,20 @@
 **VX Network** is an enterprise-grade, decentralized sovereign infrastructure engineered to redefine trust in the Web 4.0 era. Moving beyond traditional blockchain limitations, **VX Network** integrates advanced **Post-Quantum Cryptography (PQC)**, decentralized oracle validation (`Oracle-VX`), and absolute digital identity bridging (`ID Oracle-Bridge`) to establish a tamper-proof technological paradigm.
 
 Designed from inception by Chief Architect **Eng. Majid Al-Abadi**, the protocol guarantees long-term cryptographic integrity against both classical and quantum computational threats, securing absolute institutional and personal data sovereignty.
-
 ---
-​🧬 GENESIS ARCHIVE & HISTORICAL PROOF
-​The foundational spark, patent documentation, and initial cryptographic proof of this architecture were originally published on May 26, 2026, establishing the initial genesis block of the protocol.
-​Genesis Repository: VX-Network-Sovereign-Protocol-360 [https://github.com/Axis2030/VX-Network-Sovereign-Protocol-360.git]
-​Chronological Status: Verified, Patent-Backed & Time-stamped (Pre-dating current implementation)
 
+### 🔗 GENESIS ARCHIVE & HISTORICAL PROOF
+The foundational spark, patent documentation, and initial cryptographic proof of this architecture were originally published on **May 06, 2026**, establishing the initial genesis block and patent record of the protocol.
 
+* **Direct Genesis Release (Proof):** [v1.0.0-Genesis Release](https://github.com/Axis2030/VX-Network-Sovereign-Protocol-360/releases/tag/v1.0.0-Genesis)
+* **Sovereign Patent Repository:** [VX-Network-Sovereign-Protocol-360](https://github.com/Axis2030/VX-Network-Sovereign-Protocol-360)
+
+*(Chronological Status: Verified, Patent-Backed & Time-stamped)*
 ---
 
 ## ⚡ [02] CORE ARCHITECTURAL PILLARS
 
-
-```
-
+```text
       +-------------------------------------------------+
       |             VX_NETWORK ECOSYSTEM                |
       +-------------------------------------------------+
@@ -47,10 +46,9 @@ Designed from inception by Chief Architect **Eng. Majid Al-Abadi**, the protocol
 +--------------+        +--------------+        +--------------+
 ```
 
-
-* **🔐 Security-Core:** The cryptographic heartbeat of the network, featuring lattice-based and stateful hash-based post-quantum cryptographic primitives designed to withstand future quantum decryption vectors.
-* **🌐 Oracle-VX:** A decentralized, high-throughput oracle mechanism ensuring real-time, trustless, and cryptographically verified external data streams into the protocol state.
-* **🆔 ID Oracle-Bridge:** A sovereign digital identity gateway that anchors decentralized identifiers (DIDs) securely while preserving user privacy and preventing unauthorized state manipulation.
+​🔐 Security-Core: The cryptographic heartbeat of the network, featuring lattice-based and stateful hash-based post-quantum cryptographic primitives designed to withstand future quantum decryption vectors.
+​🌐 Oracle-VX: A decentralized, high-throughput oracle mechanism ensuring real-time, trustless, and cryptographically verified external data streams into the protocol state.
+​🆔 ID Oracle-Bridge: A sovereign digital identity gateway that anchors decentralized identifiers (DIDs) securely while preserving user privacy and preventing unauthorized state manipulation.
 
 ---
 
@@ -65,8 +63,6 @@ To maintain absolute transparency while safeguarding proprietary innovations, th
 | **`ID-Oracle-Bridge/`** | Sovereign identity mapping and cross-layer communication bridge. | 🟢 Active / Protected |
 | **`docs/`** | Comprehensive architectural whitepapers and technical guides. | 🟢 Published |
 
-
-
 ---
 
 ## 📖 [04] DOCUMENTATION & GOVERNANCE SUITE
@@ -78,6 +74,7 @@ Explore the complete technical and governance framework governing the **VX_NETWO
 * **[CONTRIBUTING.md](./CONTRIBUTING.md)** — Guidelines for secure community collaboration and protocol enhancement.
 * **[SECURITY.md](./SECURITY.md)** — Vulnerability reporting protocols and post-quantum threat mitigation policies.
 * **[LICENSE](./LICENSE)** — Hybrid Source-Available and Sovereign IP Protection framework.
+
 
 ---
 
